@@ -1,3 +1,3 @@
 # First-Repository
-For projects and other school stuff
+For projects and other school stuff\n
 Moon tacos > Earth tacos
